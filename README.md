@@ -1,6 +1,6 @@
 # quiz
 
-Quiz
+Quiz portant sur Flutter
 
 ## Getting Started
 

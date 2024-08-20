@@ -52,7 +52,7 @@ class ResultsScreen extends StatelessWidget {
               style: TextButton.styleFrom(
                 foregroundColor:Colors.yellowAccent , ),
                 icon: const Icon(Icons.refresh),
-                label: const Text(' Redémarrer ' , style: TextStyle(fontSize: 30 ,),
+                label: const Text(' Recommencer ' , style: TextStyle(fontSize: 30 ,),
                  ),),
             ] ,
         ),
